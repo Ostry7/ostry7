@@ -7,6 +7,7 @@
 ###
 
 <div align="left">
+  <img src="https://icon-library.com/images/powershell-icon/powershell-icon-26.jpg" height="30" width="42" alt="powershell logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
@@ -15,13 +16,13 @@
 ###
 
 <div align="left">
-  <a href="#5315" target="_blank">
+  <a href="https://discordapp.com/users/5315" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="marek-ostrowski-94a4921a3" target="_blank">
+  <a href="https://www.linkedin.com/in/marek-ostrowski-94a4921a3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="marek.ostrowski.393" target="_blank">
+  <a href="https://www.facebook.com/marek.ostrowski.393/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="ostrowskimarek7@outlook.com" target="_blank">
