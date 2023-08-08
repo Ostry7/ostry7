@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marek and I'm a Powershell enthusiast, from Poland.</h2>
+<h2 align="left">Hi 👋! My name is Marek and I'm a DevOps enthusiast, from Poland.</h2>
 
 ###
 
