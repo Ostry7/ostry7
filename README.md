@@ -7,12 +7,13 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" width="42" alt="powershell logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
-  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" height="35" width="42" alt="Microsoft Azure logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" style="height: 40px; width: 40px; margin-top: 10px;" alt="powershell logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height: 40px; width: 40px;" alt="windows8 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 40px; width: 40px;" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="height: 40px; width: 40px;" alt="microsoftsqlserver logo" />
+  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
 </div>
+
 
 ###
 
