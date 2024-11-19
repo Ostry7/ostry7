@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
-  <img src="https://swimburger.net/blog/azure/azure-has-a-new-logo-but-where-do-you-download-it-here" height="40" width="42" alt="Microsoft Azure logo"  />
+  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" height="40" width="42" alt="Microsoft Azure logo"  />
 </div>
 
 ###
