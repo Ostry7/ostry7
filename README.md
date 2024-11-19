@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillforge.com/wp-content/uploads/2022/06/powershell.png" height="30" width="42" alt="powershell logo"  />
+  <img src="https://skillforge.com/wp-content/uploads/2022/06/powershell.png" height="40" width="42" alt="powershell logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
