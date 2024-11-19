@@ -12,6 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 40px; width: 40px;" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="height: 40px; width: 40px;" alt="microsoftsqlserver logo" />
   <img src="https://swimburger.net/media/ppnn3pcl/azure.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
+  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
+  <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
 </div>
 
 
