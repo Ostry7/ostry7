@@ -1,42 +1,67 @@
-<h2 align="left">Hi 👋! My name is Marek and I'm a DevOps enthusiast, from Poland.</h2>
+<h1 align="center">👋 Hello! I'm Marek Ostrowski</h1>
+<h3 align="center">🚀 DevOps Enthusiast | Cloud & Automation Lover ☁️</h3>
 
-###
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJlZnR3YzdlM3FpMGY2dTQyNHM4a21wbmJzY3dlbnF0MWo0MG1oeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif" width="400" alt="DevOps GIF">
+</p>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/ULeWIifCgyjv63ggsr/giphy.gif?cid=ecf05e47qqro6hl5yjxwzld3zcmstj1p14nvgf495c0e067u&rid=giphy.gif&ct=g"  />
+---
 
-###
+## 🌟 About Me
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" style="height: 40px; width: 40px; margin-top: 10px;" alt="powershell logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height: 40px; width: 40px;" alt="windows8 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 40px; width: 40px;" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="height: 40px; width: 40px;" alt="microsoftsqlserver logo" />
-  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
-  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
-  <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" style="height: 40px; width: 40px;" alt="Microsoft Azure logo" />
+- 💼 **Profession:** DRaaS Engineer (with Zerto) & DevOps Enthusiast  
+- 🌍 **Location:** Poland 🇵🇱  
+- ☁️ **Cloud:** Azure & AWS  
+- ⚙️ **Automation:** Python, PowerShell, Power Automate  
+- 📊 **Databases:** MS SQL, PostgreSQL
+- 🎯 **Passion:** Continuous Learning, Problem Solving & Innovation  
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+  
+### 💻 **Platforms & Tools**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+### 🔧 **DevOps & Automation**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+### 🛠️ **Databases & BI**
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </div>
 
+---
 
-###
+## 📬 Connect with Me
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/5315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-ostrowski-94a4921a3/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marek.ostrowski.393/)
+[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ostrowskimarek7@outlook.com)
 
-<div align="left">
-  <a href="https://discordapp.com/users/5315" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marek-ostrowski-94a4921a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/marek.ostrowski.393/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="ostrowskimarek7@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
-###
+---
 
+## 📈 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marekostrowski&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marekostrowski&layout=compact&theme=radical" alt="Top Languages" height="180">
+</p>
+
+---
