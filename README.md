@@ -4,8 +4,8 @@
 **Location:** Poland  
 **Email:** ostrowskimarek7@outlook.com  
 **LinkedIn:** [marek-ostrowski](https://www.linkedin.com/in/marek-ostrowski-94a4921a3/)  
-**Credly:** [Marek Ostrowski](https://www.credly.com/users/marek-ostrowski.7277dd85/)
-**Microsoft Learn:** (https://learn.microsoft.com/users/marekostrowski-6844)
+**Credly:** [Marek Ostrowski](https://www.credly.com/users/marek-ostrowski.7277dd85/)  
+**Microsoft Learn:** https://learn.microsoft.com/users/marekostrowski-6844
 
 ---
 
