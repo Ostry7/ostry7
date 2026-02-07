@@ -4,7 +4,8 @@
 **Location:** Poland  
 **Email:** ostrowskimarek7@outlook.com  
 **LinkedIn:** [marek-ostrowski](https://www.linkedin.com/in/marek-ostrowski-94a4921a3/)  
-**GitHub:** [ostry7](https://github.com/ostry7)
+**Credly:** [Marek Ostrowski](https://www.credly.com/users/marek-ostrowski.7277dd85/)
+**Microsoft Learn:** (https://learn.microsoft.com/users/marekostrowski-6844)
 
 ---
 
@@ -58,10 +59,3 @@ Experienced DRaaS Engineer with a strong focus on DevOps, automation, and cloud 
 - Develop reusable IaC modules with Terraform and Ansible.
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ostry7&theme=default&show_icons=true" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostry7&theme=default&layout=compact" height="140">
-</p>
